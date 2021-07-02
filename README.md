@@ -1,6 +1,6 @@
 # STM32F103
 At this project I have STM32F103, SSD1306 and an EEPROM. I  used I2C1 to write and read on EEPROM, then I show what is inside EEPROM on OLED screen(SSD1306).
-It is not a commercial project so it is not written perefectly.
+(It is not a commercial project so it is not written perefectly so it is not so clean! you may need to change it a bit.)
 The OLED library is written by 4ILO, also I changed it a bit because I need to debug it.
 The link of YouTube video is:
 
